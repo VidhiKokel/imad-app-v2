@@ -5,5 +5,5 @@ element.innerHTML = 'Heya';
 
 var img = document.getElementById('dragon');
 img.onclick = function() {
-  img.style.marginleft = '100px';
+  img.style.marginLeft = '100px';
 };
